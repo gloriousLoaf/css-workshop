@@ -24,7 +24,7 @@
   outline: 1px dashed red;
 }
 
-main > [class*='layout'] + * {
+main > [class*="layout"] + * {
   margin-top: 4rem;
 }
 

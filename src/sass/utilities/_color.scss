@@ -11,6 +11,6 @@
   }
 
   .color-on-#{$color} {
-    color: var(--color-#{$color});
+    color: var(--color-on-#{$color});
   }
 }
